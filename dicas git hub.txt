@@ -10,6 +10,6 @@ git push origin master
 **** Quando fizer alterações *****
 git add .  -> adiciona todos os arquivos do diretório atual
 git commit -m 'segundo commit'
-git push origin master     -> leva as modificações para o servidor 'origin' que foi definido anteriormente para a branch master
+git push -u origin master     -> leva as modificações para o servidor 'origin' que foi definido anteriormente para a branch master
 
 
