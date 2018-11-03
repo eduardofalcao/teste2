@@ -3,7 +3,7 @@ git init
 git add .
 git add README.md
 git commit -m 'initial project version'
-git remote add origin https://github.com/eduardofalcao/<nome_do_projeto>.git
+git remote add origin https://github.com/eduardofalcao/<nome_do_projeto>.git      --> é necessário que <nome_do_projeto.git> tenha sido criado lá no meu usuário do github.com
 git push origin master
 
 
