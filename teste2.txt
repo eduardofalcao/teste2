@@ -1,2 +1,3 @@
 Isto é um teste 2
 Fazendo alterações
+Alteração para tag v0.2
