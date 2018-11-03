@@ -1,0 +1,15 @@
+**** No começo ****
+git init
+git add .
+git add README.md
+git commit -m 'initial project version'
+git remote add origin https://github.com/eduardofalcao/<nome_do_projeto>.git
+git push origin master
+
+
+**** Quando fizer alterações *****
+git add .  -> adiciona todos os arquivos do diretório atual
+git commit -m 'segundo commit'
+git push origin master     -> leva as modificações para o servidor 'origin' que foi definido anteriormente para a branch master
+
+
